@@ -18,7 +18,7 @@ const SplashScreen = ({ navigation }:any) => {
                 resizeMode="contain"
             />
             <Text style={styles.title}>Welcome to My Dating appss</Text>
-            <Text style={styles.subtitle}>Find your perfect match!</Text>
+            <Text style={styles.subtitle}>Find your perfect matched!</Text>
         </View>
     );
 };
